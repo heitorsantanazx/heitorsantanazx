@@ -7,30 +7,32 @@
 
 ## 💡 Sobre mim
 
-**Estudante de Sistemas de Informação, atualmente participante do programa AWS re/Start pela Escola da Nuvem. Possuo conhecimentos em Python, SQL, C#, .NET e fundamentos de AWS, com foco em Cloud Computing e Banco de Dados. Busco minha primeira oportunidade na área de tecnologia, onde posso aplicar minhas habilidades técnicas, desenvolver soluções eficientes, aprender com equipes experientes e contribuir com projetos reais**.
+<div style="text-align: justify;">
+Estudante de Sistemas de Informação, atualmente participante do programa AWS re/Start pela Escola da Nuvem. Com foco em Cloud Computing e Banco de Dados.
+</div>
 
-<p>📚 Atualmente construindo minha base técnica em: </p>
-
-- Fundamentos de computação em nuvem
-- Arquitetura escaláveis e resilientes em AWS
-- Programação Python
-- Banco de dados e linguagem SQL
-
-## 💻 Tecnologias e Ferrramentas
+## 🛠️ Ferrramentas
 
 <div style="text-align: center">
- <img src="./assets/python-logo.png"/>
- <img src="./assets/csharp-logo.png"/>
- <img src="./assets/aws-logo.png">
- <img src="./assets/vs-logo.png">
- <img src="./assets/vs-code-logo.png">
+    <img src="./assets/vs-logo.png"/>
+    <img src="./assets/vs-code-logo.png"/>
+    <img src="./assets/office-logo.png"/>
+</div>
+
+## 📚 Estudando no momento
+
+<div style="text-align: center">
+     <img src="./assets/python-logo.png"/>
+     <img src="./assets/sql-logo.png"/>
+     <img src="./assets/aws-logo.png">
+     <img src="./assets/csharp-logo.png"/>
 </div>
 
 ## 🚀 Metas 2026
 
-- Aprofundar os estudos em AWS
-- Conquistar a certificação CLF-C02
-- Projetos envolvendo SQL e Python no GitHub
+- [ ] Aprofundar os estudos em AWS
+- [ ] Conquistar a certificação CLF-C02
+- [ ] Projetos envolvendo SQL e Python no GitHub
 
 ## 🌐 Que tal nos conectarmos?
 
