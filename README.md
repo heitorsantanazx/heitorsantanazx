@@ -7,9 +7,7 @@
 
 ## 💡 Sobre mim
 
-<p style="text-align: justify;">
-Estudante de Sistemas de Informação, atualmente participante do programa AWS re/Start pela Escola da Nuvem. Possuo conhecimentos em Python, SQL, C#, .NET e fundamentos de AWS, com foco em Cloud Computing e Banco de Dados. Busco minha primeira oportunidade na área de tecnologia, onde posso aplicar minhas habilidades técnicas, desenvolver soluções eficientes, aprender com equipes experientes e contribuir com projetos reais.
-</p>
+**Estudante de Sistemas de Informação, atualmente participante do programa AWS re/Start pela Escola da Nuvem. Possuo conhecimentos em Python, SQL, C#, .NET e fundamentos de AWS, com foco em Cloud Computing e Banco de Dados. Busco minha primeira oportunidade na área de tecnologia, onde posso aplicar minhas habilidades técnicas, desenvolver soluções eficientes, aprender com equipes experientes e contribuir com projetos reais**.
 
 <p>📚 Atualmente construindo minha base técnica em: </p>
 
