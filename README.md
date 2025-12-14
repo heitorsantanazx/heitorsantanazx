@@ -3,7 +3,8 @@
 <div>
     <a href="https://github.com/heitorsantanazx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorsantanazx&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-    <a href="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+    <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+    <br><br>
 </div>
 
 ## 💡 Sobre mim
