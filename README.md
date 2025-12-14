@@ -1,15 +1,17 @@
-# 👋 Hello There
+# 👋 Hello There, sou Deméthrius Heitor
 
 <div>
     <a href="https://github.com/heitorsantanazx">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorsantanazx&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
 </div>
 
+<a href="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+
 ## 💡 Sobre mim
 
-<div style="text-align: justify;">
-Estudante de Sistemas de Informação, atualmente participante do programa AWS re/Start pela Escola da Nuvem. Com foco em Cloud Computing e Banco de Dados.
-</div>
+- Estudante de Sistemas de Informação
+- Atualmente participante do programa AWS re/Start pela Escola da Nuvem
+- Foco em Cloud Computing e Banco de Dados.
 
 ## 🛠️ Ferrramentas
 
