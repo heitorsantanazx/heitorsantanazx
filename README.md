@@ -33,7 +33,7 @@
 
 ## 🚀 Metas 2026
 
-- [ ] Conluir o programa AWS re/Start na Escola da Nuvem
+- [ ] Concluir o programa AWS re/Start na Escola da Nuvem
 - [ ] Conquistar a certificação CLF-C02
 - [ ] Aumentar meu repositório no GitHub
 - [ ] Estudar ferramentas como Power BI e Terraform
