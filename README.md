@@ -38,6 +38,7 @@
 - [ ] Aumentar meu repositório no GitHub
 - [ ] Estudar ferramentas como Power BI e Terraform
 - [ ] Participar de cursos e eventos
+- [ ] Finalizar curso da cisco sobre Conceitos Básicos de Redes
 
 ---
 
