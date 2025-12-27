@@ -1,12 +1,5 @@
 # 👋 print(Olá, eu sou Deméthrius Heitor)
 
-<div>
-    <a href="https://github.com/heitorsantanazx">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorsantanazx&show_icons=true&theme=dark&include_all_comits=true&count_private=true"/>
-</div>
-
----
-
 ## 💡 Sobre mim
 
 <p align="center">
@@ -16,7 +9,7 @@
 - Formado em **Ciência da Computação**
 - Estudante de **Sistemas de Informação**
 - Atualmente participante do programa **AWS re/Start pela Escola da Nuvem**
-- Estudando: AWS, Python e SQL 
+- Estudando: AWS, Python e SQL
 - Foco em Cloud Computing e Banco de Dados
 
 ---
@@ -34,11 +27,19 @@
 ## 🚀 Metas 2026
 
 - [ ] Concluir o programa AWS re/Start na Escola da Nuvem
+- [ ] Finalizar curso da cisco sobre Conceitos Básicos de Redes
 - [ ] Conquistar a certificação CLF-C02
 - [ ] Aumentar meu repositório no GitHub
 - [ ] Estudar ferramentas como Power BI e Terraform
 - [ ] Participar de cursos e eventos
-- [ ] Finalizar curso da cisco sobre Conceitos Básicos de Redes
+
+---
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heitorsantanazx&theme=dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heitorsantanazx&theme=dark"/>
+</p>
 
 ---
 
