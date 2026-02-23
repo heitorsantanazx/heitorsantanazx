@@ -26,11 +26,12 @@
 
 ## 🚀 Metas 2026
 
-- [ ] Concluir o programa AWS re/Start na Escola da Nuvem
-- [ ] Finalizar curso da cisco sobre Conceitos Básicos de Redes
+- [x] Concluir o programa AWS re/Start na Escola da Nuvem
 - [ ] Conquistar a certificação CLF-C02
+- [ ] Finalizar curso da cisco sobre Conceitos Básicos de Redes
+- [ ] Estudar Linux para reforçar meus estudos em cloud
+- [ ] Estudar Power BI para compreender o uso desta ferramenta em dados
 - [ ] Aumentar meu repositório no GitHub
-- [ ] Estudar ferramentas como Power BI e Terraform
 - [ ] Participar de cursos e eventos
 
 ---
